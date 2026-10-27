@@ -1,16 +1,18 @@
 # Juan Tabuyo
 
-Mathematical Engineering and Artificial Intelligence student at ICAI,
-Universidad Pontificia Comillas · Class of 2028.
+I’m studying Mathematical Engineering and Artificial Intelligence at ICAI,
+Universidad Pontificia Comillas, and expect to graduate in 2028. I previously
+studied International Business Management at ICADE and Lancaster University and
+completed an M&A internship at Deloitte.
 
-I'm interested in software engineering, machine learning and the mathematics
-behind quantitative research, optimisation and financial markets. My academic
-projects explore numerical methods, algorithms and data, with runnable
-examples and clear limits.
+I’m interested in how mathematics, data and technology can help answer
+financial and business questions. My interests include quantitative research,
+M&A, and technology and AI consulting. I enjoy both analysing a problem and
+building the software needed to investigate it.
 
-Before ICAI, I studied International Business Management at ICADE and Lancaster
-University. That background connects my interest in business and markets with
-the mathematical and technical work I am developing now.
+My academic projects cover numerical methods, machine learning, algorithms and
+data systems. The repositories below contain examples of that work, with code
+you can run and explanations of the methods, results and limitations.
 
 ## Selected projects
 
@@ -27,7 +29,6 @@ Other coursework includes [Amazon review databases](https://github.com/juantabuy
 and a [Raspberry Pi alarm](https://github.com/juantabuyo/raspberry-pi-alarm-demo),
 both pair projects.
 
-The project repositories are currently private; their links require access.
 Each README explains the methods, how to run the code and whether an example
 uses synthetic data, a simulation or saved results. Team work is identified
 in the corresponding project.
